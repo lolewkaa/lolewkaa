@@ -13,5 +13,8 @@
      
   
 <h2 align='center'> Мечтаю, чтобы моё хобби стало моей профессией и я могла с гордостью называть себя frontend-разработчиком!💪</h2>
+<div id='header' align='center'>
+  <img src="https://media.giphy.com/media/27UtynCENEhLgiAmik/giphy.gif" width="100"/>
+</div>
 
 
