@@ -4,6 +4,8 @@
 </div>
 <h1 align='center'> Hi there 👋</h1>
  
+---
+
 ### :woman_technologist: About Me :
 
 
