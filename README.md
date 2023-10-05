@@ -1,9 +1,8 @@
 
 <div id='header' align='center' display='block'>
   <img src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif" width="500"/>
-  Привет! Меня зовут Настя :alien:
 </div>
- 
+ <h1> Привет! Меня зовут Настя :alien:</h1>
  
 ---
 
