@@ -3,6 +3,10 @@
   <img src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif" width="500"/>
 </div>
  <h1> Привет! Меня зовут Настя :alien:</h1>
+ <h1>
+    hey there
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
  
 ---
 
